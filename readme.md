@@ -13,7 +13,7 @@ Follow official guidance to install [Pytorch][torch_link].
 
 [torch_link]:https://pytorch.org/
 
-Backbone model:
+Backbone models:
  1. PENet: [penet]
  2. GatorTron: [GatorTron]
 
