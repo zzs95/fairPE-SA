@@ -12,3 +12,6 @@ Some important required packages include:
 Follow official guidance to install [Pytorch][torch_link].
 
 [torch_link]:https://pytorch.org/
+
+Backbone model:
+PENet[penet_link]:https://pytorch.org/
